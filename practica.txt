@@ -1,2 +1,3 @@
 Estoy aprendiendo Git
 git permite controlar las versiones de mis proyectos
+Git utilizara commits para guardar cambio
