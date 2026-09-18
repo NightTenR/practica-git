@@ -1,4 +1,4 @@
-Estoy aprendiendo Git
+Estoy aprendiendo Git desde la rama login
 git permite controlar las versiones de mis proyectos
 Git utilizara commits para guardar cambio
 Este cambio fue creado en la rama prueba
