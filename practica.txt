@@ -5,3 +5,4 @@ Este cambio fue creado en la rama prueba
 Voy empezando con Git y se me hace dificil recordar los comandos, solo se que con las practica podre
 Este cambio servira para preacticar git pull
 Este cambio servira para practicar git fetch
+Este cambio viene desde el repositorio oreiginal
