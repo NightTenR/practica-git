@@ -2,3 +2,4 @@ Estoy aprendiendo Git desde la rama master
 git permite controlar las versiones de mis proyectos
 Git utilizara commits para guardar cambio
 Este cambio fue creado en la rama prueba
+Voy empezando con Git y se me hace dificil recordar los comandos, solo se que con las practica podre
