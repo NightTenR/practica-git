@@ -6,3 +6,4 @@ Voy empezando con Git y se me hace dificil recordar los comandos, solo se que co
 Este cambio servira para preacticar git pull
 Este cambio servira para practicar git fetch
 ESte es un cambio creado localmente
+Este cambio viene desde el repositorio oreiginal
